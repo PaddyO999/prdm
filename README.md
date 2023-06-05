@@ -1,3 +1,7 @@
+# DHSI Demo 2023
+
+Practice repor for DHSI 2023
+
 # CollectionBuilder-GH
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
